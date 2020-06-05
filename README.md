@@ -1,6 +1,6 @@
 # dpaster
 
-[![Build Status](https://travis-ci.org/xvm32/dpaster.svg?branch=master)](https://travis-ci.org/xvm32/dpaster) [![Coverage Status](https://coveralls.io/repos/github/xvm32/dpaster/badge.svg?branch=master)](https://coveralls.io/github/xvm32/dpaster?branch=master) [![PyPI version](https://badge.fury.io/py/thepaster.svg)](https://pypi.org/project/thepaster/1.1.1/) [![PyPI](https://img.shields.io/badge/status-stable-brightgreen.svg)](https://pypi.org/project/thepaster/1.1.1/) 
+[![Build Status](https://travis-ci.org/xvm32/dpaster.svg?branch=master)](https://travis-ci.org/xvm32/dpaster) [![Coverage Status](https://coveralls.io/repos/github/xvm32/dpaster/badge.svg?branch=master)](https://coveralls.io/github/xvm32/dpaster?branch=master) [![PyPI version](https://badge.fury.io/py/thepaster.svg)](https://pypi.org/project/thepaster/2.0.0/) [![PyPI](https://img.shields.io/badge/status-stable-brightgreen.svg)](https://pypi.org/project/thepaster/2.0.0/) 
 
 **dpaster** is a command-line client interface for [dpaste](https://dpaste.org/).
 
