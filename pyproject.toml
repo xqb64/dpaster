@@ -4,7 +4,7 @@ author = "xvm32"
 author-email = "dedmauz69@gmail.com"
 home-page = "https://github.com/xvm32/dpaster"
 description-file = "README.md"
-requires-python = ">=3.4"
+requires-python = ">=3.6"
 keywords = "client interface dpaste pastebin"
 requires = [
     "requests",
