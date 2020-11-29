@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "thepaster"
-version = "3.2.2"
+version = "3.3.0"
 description = "Command-line client interface for https://dpaste.com/ pastebin"
 authors = ["xvm32 <xvm32@users.noreply.github.com>"]
 license = "MIT"
