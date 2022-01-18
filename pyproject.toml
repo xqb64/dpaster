@@ -2,7 +2,7 @@
 name = "thepaster"
 version = "3.5.0"
 description = "Command-line client interface for https://dpaste.com/ pastebin"
-authors = ["xvm32 <xvm32@users.noreply.github.com>"]
+authors = ["xqb64 <x@nuked.one>"]
 license = "MIT"
 packages = [
     { include = "dpaster" },
